@@ -3,7 +3,7 @@
 /*
 Plugin Name: MLohr's Basic Plugins with extended Polylang Support
 Plugin URI: https://mlohr.com/
-Description: This plugin adds some more Polylang support to basic plugins like Tag Cloud, Categories and Recent Posts
+Description: This plugin adds some more Polylang support to basic widgets like Tag Cloud, Categories and Recent Posts
 Version: 0.1.0
 Author: Matthias Lohr <matthias@lohr.me>
 Author URI: https://mlohr.com/
